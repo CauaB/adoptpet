@@ -1,3 +1,7 @@
+O sistema é uma aplicação web voltada para a gestão e facilitação do processo de adoção de pets, conectando adotantes a abrigos e cuidadores. Ele permite o gerenciamento completo de informações relacionadas à pets disponíveis para adoção, incluindo cadastro de espécies, raças, idades, status de adoção, e dados de abrigos onde os animais estão localizados.
+
+---
+
 # 🐶🐱ADOPT PET - Sistema para Adoção de Pets
 
 ## 📄 Sobre:
